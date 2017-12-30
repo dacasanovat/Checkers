@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510938701 source:c:\users\david casanova\documents\tec\1 semestre\fundamentos de programación\code..block\proyecto final\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
